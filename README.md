@@ -1,13 +1,19 @@
 Please consider the below factors while contributing
-Code Style:
+
+__Code Style:__
 Maintain a consistent code style for readability.
-Documentation:
+
+__Documentation:__
 Ensure well-documented code for effective collaboration.
-Testing:
+
+__Testing:__
 Thoroughly test your changes before submitting a pull request.
-Issue Tracker:
+
+__Issue Tracker:__
 Check the Issue Tracker for tasks.
-Code Review:
+
+__Code Review:__
 All contributions undergo a code review process.
-Licensing:
+
+__Licensing:__
 Contributions are licensed.
